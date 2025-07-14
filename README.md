@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Rahul Jangir
 
-🚀 QA Automation Engineer passionate about building industry-grade test automation projects.
+🚀 QA Automation Engineer 
 
 🎓 Built 6+ projects with [Crio.do](https://crio.do/)  
 💻 Solved 100+ DSA problems  
